@@ -22,10 +22,10 @@
     align="left" 
     alt="GitHub Stats" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=prateslr&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
+    src="https://github-readme-stats.vercel.app/api?username=Lrpdev&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
  
   <img
     align="left" 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateslr&layout=compact&theme=dark&langs_count=9" alt="Top Langs" height="400"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lrpdev&layout=compact&theme=dark&langs_count=9" alt="Top Langs" height="400"/>
 </p>
